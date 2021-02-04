@@ -677,11 +677,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px; /* j'ai changer la taille pour plus grand accessibilité*/
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 62rem;; /* je change car la paragraphe est trop à droite*/
     margin: auto auto auto auto;
 }
 
@@ -771,15 +771,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #834A2F; /* j'ai changé le background pour respecter l'exigence WCAG contraste*/
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:#FFFFFF!important;/* je change le couleur de #F3976C a blanc*/
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #90390E; /*je change le couleur pour le contraste respecte l'exigencee WCAG*/
     color: #FFFFFF!important;
 }
 
