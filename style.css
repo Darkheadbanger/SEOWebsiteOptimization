@@ -362,6 +362,50 @@ a:hover {
     z-index: 2;
 }
 
+
+
+
+
+
+
+
+
+
+/* a partir d'ici c'est les codes que j'écris*/
+.center-text {
+    padding-right: 20.3rem;
+    padding-left: 20.3rem;
+}
+.center-comment {
+    padding-right: 60px;
+    padding-left: 60px;
+    line-height: 24px;
+}
+.center-exemple {
+    padding-right: 278px;
+    padding-left: 278px;
+}
+.p {
+    font-size: 1.5em;
+}
+.detail {
+    font-size: 1em;
+    line-height: 0;
+} 
+
+/**/
+
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -1041,24 +1085,4 @@ h4 {
     }
 }
 
-/* a partir d'ici c'est les codes que j'écris*/
-.center-text {
-    padding-right: 20.3rem;
-    padding-left: 20.3rem;
-}
-.center-comment {
-    padding-right: 60px;
-    padding-left: 60px;
-    line-height: 24px;
-}
-.center-exemple {
-    padding-right: 278px;
-    padding-left: 278px;
-}
-.p {
-    font-size: 1.5em;
-}
-.detail {
-    font-size: 1em;
-    line-height: 0;
-} 
+
