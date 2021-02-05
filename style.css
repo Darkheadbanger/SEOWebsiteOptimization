@@ -1040,3 +1040,25 @@ h4 {
         text-align: center;
     }
 }
+
+/* a partir d'ici c'est les codes que j'écris*/
+.center-text {
+    padding-right: 20.3rem;
+    padding-left: 20.3rem;
+}
+.center-comment {
+    padding-right: 60px;
+    padding-left: 60px;
+    line-height: 24px;
+}
+.center-exemple {
+    padding-right: 278px;
+    padding-left: 278px;
+}
+.p {
+    font-size: 1.5em;
+}
+.detail {
+    font-size: 1em;
+    line-height: 0;
+}
