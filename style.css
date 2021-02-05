@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    height:40px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -362,15 +363,6 @@ a:hover {
     z-index: 2;
 }
 
-
-
-
-
-
-
-
-
-
 /* a partir d'ici c'est les codes que j'écris*/
 .center-text {
     padding-right: 20.3rem;
@@ -392,19 +384,7 @@ a:hover {
     font-size: 1em;
     line-height: 0;
 } 
-
 /**/
-
-
-
-
-
-
-
-
-
-
-
 
 @media (min-width: 768px) {
     .site-navigation {
