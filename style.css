@@ -680,7 +680,6 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
-    padding: 8px 0 24px 0px; /*ici je change*/
 }
 
 .a {/* ajouter*/
@@ -737,7 +736,6 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     padding: 8px 0px 24px 31px;/*ici je change*/
-    margin: 0 0 0 14.4rem;
 }
 
 h2 {
