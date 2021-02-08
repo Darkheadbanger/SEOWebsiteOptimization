@@ -683,6 +683,11 @@ a {
     padding: 8px 0 24px 0px; /*ici je change*/
 }
 
+.a {/* ajouter*/
+    color:#FFFFFF !important;
+    text-decoration: underline;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -732,6 +737,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     padding: 8px 0px 24px 31px;/*ici je change*/
+    margin: 0 0 0 14.4rem;
 }
 
 h2 {
