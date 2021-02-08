@@ -561,7 +561,7 @@ button {
 a[data-lightbox] {
     position: relative;
     display: block;
-    text-align: center;
+    text-align: -moz-center;
 }
 
 a[data-lightbox]:hover::before {
@@ -872,6 +872,11 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .social {
+        max-width: 400px;
+        margin: auto 7.5rem auto;
+        padding: 8px 0px 24px 31px;
+    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -880,6 +885,11 @@ h4 {
     }
     .nav-center.navbar .nav {
         max-width: 100%
+    }
+    .social {
+        max-width: 400px;
+        margin: auto 13.5rem auto;
+        padding: 8px 0px 24px 31px;
     }
 }
 
@@ -1060,6 +1070,14 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .social {
+        max-width: 400px;
+        margin: auto 35px auto auto;
+        padding: 8px 0px 24px 31px;
+    }
+    .row-responsive {
+        margin: 0 0 0 2rem;
     }
 }
 
