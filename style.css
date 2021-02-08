@@ -680,6 +680,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    padding: 8px 0 24px 0px; /*ici je change*/
 }
 
 .container {
@@ -705,7 +706,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -730,6 +731,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding: 8px 0 24px 0px;/*ici je change*/
 }
 
 h2 {
@@ -850,7 +852,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg"); /*ici je change l'image en format jpg*/
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
