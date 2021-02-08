@@ -685,6 +685,7 @@ a {
 .a {/* ajouter*/
     color:#FFFFFF !important;
     text-decoration: underline;
+    padding: 0 0 32px 0px;
 }
 
 .container {
