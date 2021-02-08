@@ -734,7 +734,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto 14rem auto;
     padding: 8px 0px 24px 31px;/*ici je change*/
 }
 
